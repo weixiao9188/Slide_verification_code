@@ -1,0 +1,2 @@
+# Slide_verification_code
+利用selenium+cv2解决滑动验证码问题
